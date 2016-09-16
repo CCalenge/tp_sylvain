@@ -34,7 +34,6 @@
 				}
 			}
 			?>
-
 </p>
 
   <label for="login">Login : <input type="text" id="login" name="login"/>
@@ -43,5 +42,8 @@
   </label><br/>
   <input type="submit" id="submit" name="submit" value="Connexion"/>
 </form>
+
+
+
   </body>
 </html>
